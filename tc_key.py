@@ -1,1 +1,1 @@
-tc_key = '8f6b5cd20c3591103ed721522741e46c'
+tc_key = 'api key for 2Captcha'
